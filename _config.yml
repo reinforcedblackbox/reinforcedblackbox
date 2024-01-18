@@ -1,17 +1,17 @@
 # site settings
 title: RBBX
 subtitle: Reinforced BlackBox
-email: youremailaddress@gmail.com
+email: info@rbbx.studio
 description: Reinforced BlackBox ^This page is under construction. Please come back after sometime.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: JSQ Plaza )221
 city: Jersey City
 state: NJ
-zip_code: 55555
+zip_code: 07306
 country: United States of America
-phone: (716) 555-5555
+phone: (201)-208-2422
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -37,4 +37,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - generic.md
-- 
+- elements.md
