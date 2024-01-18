@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>We not only inherently design proteins and enzymes through evolution we also inherit behavior and goals. The biological reinforcements within the cerebral cortex. Once we have a working model of an agent that operates as an interplay between a reward function, the Using game theory to rationalize and forcefully control interaction between agents and letting them evolve with constraints can help us identify language goals.</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Rhoncus magna</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>NI want to walk from point A to point B you don't have to actively think about moving every single muscle in your body like when you used to do when you're a child you want to you want to learn to control your muscles is when you think actively about moving which muscle and you walk to from point A to point B</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
