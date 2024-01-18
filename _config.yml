@@ -38,3 +38,4 @@ exclude:
 - README.md 
 - generic.md
 - elements.md
+- landing.md
